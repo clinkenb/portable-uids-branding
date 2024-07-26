@@ -16,5 +16,5 @@ UIDS-branded Libraries header and footer with minimal dependencies that can be a
 	- portable.css
 
 ## To do
-- [ ] I will add ths sass/scss files soon.
+- [x] I will add ths sass/scss files soon.
 - [ ] Skinny footer - maybe.
